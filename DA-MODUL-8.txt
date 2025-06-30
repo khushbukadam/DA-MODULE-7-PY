@@ -1,0 +1,9 @@
+Module: 8 _NumPy, Pandas, Matplotlib
+
+1) Import pandas and read in the banklist.csv file into a dataframe called
+banks.
+ans:-
+
+
+2) Show the head of the dataframe.
+ans:-
